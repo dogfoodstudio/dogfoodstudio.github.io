@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>齐云</title>
-        <subtitle>你好</subtitle>
+        <title>＜我好想变强＞</title>
+        <subtitle>Π</subtitle>
         <icon>http://yoursite.com/images/favicon.ico</icon>
         <link>http://yoursite.com</link>
         <author>
-          <name>齐云</name>
+          <name>克劳德</name>
         </author>
-        <description>什么都不是</description>
+        <description>☆★☆★☆★☆★</description>
         <language>zh-CN</language>
         <pubDate>Thu, 13 Aug 2020 21:45:48 +0800</pubDate>
         <lastBuildDate>Thu, 13 Aug 2020 21:45:48 +0800</lastBuildDate>
@@ -20,7 +20,7 @@
             <link>http://yoursite.com/computer-science/note/theme-shoka-doc/special/</link>
             <category term="计算机科学" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
             <category term="二进制杂谈" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
-            <category term="Theme Shoka Documentation" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/theme-shoka-doc/" />
+            <category term="Theme Shoka Documentation" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
             <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/" />
             <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 21:45:48 +0800</pubDate>
@@ -585,7 +585,7 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
             <link>http://yoursite.com/computer-science/note/theme-shoka-doc/display/</link>
             <category term="计算机科学" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
             <category term="二进制杂谈" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
-            <category term="Theme Shoka Documentation" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/theme-shoka-doc/" />
+            <category term="Theme Shoka Documentation" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
             <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/" />
             <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 21:12:48 +0800</pubDate>
@@ -729,7 +729,7 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
             <link>http://yoursite.com/computer-science/note/theme-shoka-doc/config/</link>
             <category term="计算机科学" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
             <category term="二进制杂谈" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
-            <category term="Theme Shoka Documentation" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/theme-shoka-doc/" />
+            <category term="Theme Shoka Documentation" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
             <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/" />
             <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 20:56:48 +0800</pubDate>
@@ -891,7 +891,7 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
             <link>http://yoursite.com/computer-science/note/theme-shoka-doc/dependents/</link>
             <category term="计算机科学" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
             <category term="二进制杂谈" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
-            <category term="Theme Shoka Documentation" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/theme-shoka-doc/" />
+            <category term="Theme Shoka Documentation" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
             <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/" />
             <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 20:46:48 +0800</pubDate>
@@ -988,7 +988,7 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
             <link>http://yoursite.com/computer-science/note/theme-shoka-doc/</link>
             <category term="计算机科学" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
             <category term="二进制杂谈" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
-            <category term="Theme Shoka Documentation" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/theme-shoka-doc/" />
+            <category term="Theme Shoka Documentation" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
             <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/" />
             <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
