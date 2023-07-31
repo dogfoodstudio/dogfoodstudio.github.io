@@ -12,9 +12,9 @@
     <category term="关键词1" />
     <category term="关键词2" />
     <entry>
-        <id>http://yoursite.com/computer-science/note/theme-shoka-doc/special/</id>
+        <id>http://yoursite.com/computer-science-note-theme-shoka-doc-special/</id>
         <title>Step.4 主题特殊功能</title>
-        <link rel="alternate" href="http://yoursite.com/computer-science/note/theme-shoka-doc/special/"/>
+        <link rel="alternate" href="http://yoursite.com/computer-science-note-theme-shoka-doc-special/"/>
         <content type="html">&lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;&lt;strong&gt;🦄特殊功能&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -284,8 +284,8 @@ H&lt;sub&gt;2&lt;/sub&gt;0&lt;br /&gt;
 29&lt;sup&gt;th&lt;/sup&gt;&lt;/p&gt;
 &lt;h1 id=&#34;spoiler隐藏文字&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#spoiler隐藏文字&#34;&gt;#&lt;/a&gt;  &lt;code&gt;spoiler&lt;/code&gt;  隐藏文字&lt;/h1&gt;
 &lt;p&gt;本功能基于 &lt;code&gt;markdown-it-spoiler&lt;/code&gt;  和 &lt;code&gt;markdown-it-attrs&lt;/code&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;!! 黑幕黑幕黑幕黑幕黑幕黑幕！！： 鼠标滑过显示内容&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;!! 模糊模糊模糊模糊模糊模糊！！&amp;#123;.bulr&amp;#125; ： 选中文字显示内容&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;黑幕黑幕黑幕黑幕黑幕黑幕&lt;/span&gt; ： 鼠标滑过显示内容&lt;br /&gt;
-&lt;span class=&#34;spoiler bulr&#34; title=&#34;你知道得太多了&#34;&gt;模糊模糊模糊模糊模糊模糊&lt;/span&gt; ： 选中文字显示内容&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;!! 黑幕黑幕黑幕黑幕黑幕黑幕！！： 鼠标滑过显示内容&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;!! 模糊模糊模糊模糊模糊模糊！！&amp;#123;.bulr&amp;#125; ： 选中文字显示内容&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;这是什么秘密？&#34;&gt;黑幕黑幕黑幕黑幕黑幕黑幕&lt;/span&gt; ： 鼠标滑过显示内容&lt;br /&gt;
+&lt;span class=&#34;spoiler bulr&#34; title=&#34;这是什么秘密？&#34;&gt;模糊模糊模糊模糊模糊模糊&lt;/span&gt; ： 选中文字显示内容&lt;/p&gt;
 &lt;h1 id=&#34;label-标签块&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#label-标签块&#34;&gt;#&lt;/a&gt;  &lt;code&gt;label&lt;/code&gt;  标签块&lt;/h1&gt;
 &lt;p&gt;本功能基于 &lt;code&gt;markdown-it-bracketed-spans&lt;/code&gt;  和 &lt;code&gt;markdown-it-attrs&lt;/code&gt; &lt;br /&gt;
  有以下颜色可选&lt;/p&gt;
@@ -416,7 +416,7 @@ H&lt;sub&gt;2&lt;/sub&gt;0&lt;br /&gt;
           &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;/details&gt;
 &lt;details class=&#34;warning&#34;&gt;&lt;summary&gt;黄色&lt;/summary&gt;&lt;div&gt;
-&lt;p&gt;&lt;span class=&#34;spoiler bulr&#34; title=&#34;你知道得太多了&#34;&gt;警告警告警告警告警告&lt;/span&gt;&lt;br /&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler bulr&#34; title=&#34;这是什么秘密？&#34;&gt;警告警告警告警告警告&lt;/span&gt;&lt;br /&gt;
 &lt;span class=&#34;label success&#34;&gt; label&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;/details&gt;
 &lt;details class=&#34;danger&#34;&gt;&lt;summary&gt;红色&lt;/summary&gt;&lt;div&gt;
